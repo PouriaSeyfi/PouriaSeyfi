@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PouriaSeyfi
-- 👀 I’m interested in Laravel, Vuejs, Nuxtjs and Clean Code
-- 🌱 I’m currently learning GO Lang
+- 👀 I’m interested in PHP, Golang languages
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on projects that has clean code approaches
 - 📫 How to reach me : seyfipouria@gmail.com
 
